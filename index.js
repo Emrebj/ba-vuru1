@@ -186,7 +186,7 @@ ${client.user.username}
 
     }
 });
-client.login(token)
+client.login(process.env.token)
 //Fr3zy Youtube
 
 
