@@ -14,6 +14,7 @@
     "croxydb": "^0.0.22",
     "discord.js": "^14.14.1",
     "fs": "^0.0.1-security",
+    "express": "^4.18.2"
     "moment": "^2.29.4"
   }
 }
